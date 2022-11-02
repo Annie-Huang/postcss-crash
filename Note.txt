@@ -6,6 +6,8 @@ https://postcss.org/
 
 https://github.com/postcss/autoprefixer
 https://caniuse.com/?search=%3Aplaceholder
+https://github.com/csstools/postcss-preset-env
+
 
 https://github.com/bradtraversy/postcss-crash
 https://github.com/Annie-Huang/postcss-crash
@@ -26,3 +28,11 @@ PS C:\react\postcss-crash> npm i -D postcss-preset-env
 
 Autoprefixer:
 PostCSS plugin to parse CSS and add vendor prefixes to CSS rules using values from Can I Use. It is recommended by Google and used in Twitter and Alibaba.
+
+PostCSS Preset Env
+PostCSS Preset Env lets you convert modern CSS into something most browsers can understand, determining the polyfills you need based on your targeted browsers or runtime environments.
+postcss-preset-env allows you to use future CSS features today.
+
+postcssPresetEnv({ stage: 0 })
+The stage can be 0 (experimental) through 4 (stable), or false. Setting stage to false will disable every polyfill. Doing this would only be useful if you intended to exclusively use the features option.
+Default: 2
