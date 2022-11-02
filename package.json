@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Annie-Huang/postcss-crash/issues"
   },
-  "homepage": "https://github.com/Annie-Huang/postcss-crash#readme"
+  "homepage": "https://github.com/Annie-Huang/postcss-crash#readme",
+  "devDependencies": {
+    "postcss": "^8.4.18",
+    "postcss-cli": "^10.0.0"
+  }
 }
