@@ -3,9 +3,9 @@ body {
 }
 
 input::-moz-placeholder {
-  color: red;
+  color: steelblue;
 }
 
 input::placeholder {
-  color: red;
+  color: steelblue;
 }

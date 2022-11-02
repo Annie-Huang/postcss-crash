@@ -3,5 +3,5 @@ body {
 }
 
 input::placeholder {
-  color: red;
+  color: steelblue;
 }
