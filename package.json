@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "lite-server --baseDir=./dist",
     "watch:css": "postcss src/input.css -o dist/style.css -w",
     "build:css": "postcss src/input.css -o dist/style.css"
   },
