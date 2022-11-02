@@ -15,4 +15,4 @@ To use PostCSS from your command-line interface or with npm scripts there is pos
 postcss --use autoprefixer -o main.css css/*.css
 
 PS C:\react\postcss-crash> npm i -D postcss postcss-cli
-
+PS C:\react\postcss-crash> npm i -D autoprefixer
