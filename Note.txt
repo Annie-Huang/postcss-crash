@@ -16,6 +16,10 @@ npm Scripts
 To use PostCSS from your command-line interface or with npm scripts there is postcss-cli.
 postcss --use autoprefixer -o main.css css/*.css
 
+PS C:\react\postcss-crash> npm run watch:css
+PS C:\react\postcss-crash> npm run start
+
+
 PS C:\react\postcss-crash> npm i -D postcss postcss-cli
 PS C:\react\postcss-crash> npm i -D autoprefixer
 
