@@ -4,6 +4,8 @@ https://github.com/postcss/postcss#usage
 https://www.postcss.parts/      <---------- You can see all the post css plugin in here.
 https://postcss.org/
 
+https://github.com/postcss/autoprefixer
+https://caniuse.com/?search=%3Aplaceholder
 
 https://github.com/bradtraversy/postcss-crash
 https://github.com/Annie-Huang/postcss-crash
@@ -16,3 +18,7 @@ postcss --use autoprefixer -o main.css css/*.css
 
 PS C:\react\postcss-crash> npm i -D postcss postcss-cli
 PS C:\react\postcss-crash> npm i -D autoprefixer
+
+
+Autoprefixer:
+PostCSS plugin to parse CSS and add vendor prefixes to CSS rules using values from Can I Use. It is recommended by Google and used in Twitter and Alibaba.
