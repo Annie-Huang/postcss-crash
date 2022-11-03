@@ -8,6 +8,7 @@ https://github.com/postcss/autoprefixer
 https://caniuse.com/?search=%3Aplaceholder
 https://github.com/csstools/postcss-preset-env
 https://github.com/csstools/precss
+https://github.com/postcss/postcss-import
 
 https://github.com/bradtraversy/postcss-crash
 https://github.com/Annie-Huang/postcss-crash
@@ -26,7 +27,7 @@ PS C:\react\postcss-crash> npm i -D postcss postcss-cli
 PS C:\react\postcss-crash> npm i -D autoprefixer
 PS C:\react\postcss-crash> npm i -D postcss-preset-env
 PS C:\react\postcss-crash> npm i -D precss
-
+PS C:\react\postcss-crash> npm i postcss-import
 
 Autoprefixer:
 PostCSS plugin to parse CSS and add vendor prefixes to CSS rules using values from Can I Use. It is recommended by Google and used in Twitter and Alibaba.
@@ -41,3 +42,6 @@ Default: 2
 
 PreCSS
 PreCSS lets you use Sass-like markup and staged CSS features in CSS.
+
+postcss-import
+PostCSS plugin to transform @import rules by inlining content.
