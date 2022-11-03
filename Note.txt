@@ -25,6 +25,8 @@ PS C:\react\postcss-crash> npm run start
 PS C:\react\postcss-crash> npm i -D postcss postcss-cli
 PS C:\react\postcss-crash> npm i -D autoprefixer
 PS C:\react\postcss-crash> npm i -D postcss-preset-env
+PS C:\react\postcss-crash> npm i -D precss
+
 
 Autoprefixer:
 PostCSS plugin to parse CSS and add vendor prefixes to CSS rules using values from Can I Use. It is recommended by Google and used in Twitter and Alibaba.
