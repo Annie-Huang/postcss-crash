@@ -1,4 +1,5 @@
 @import 'vars.css';
+@import 'card.css';
 @custom-selector :--heading h1, h2, h3, h4, h5, h6;
 @custom-media --viewport-small (width <= 500px);
 
