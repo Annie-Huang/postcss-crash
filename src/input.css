@@ -11,6 +11,13 @@ body {
   }
 }
 
+/* Test nesting */
+.card {
+  & h2 {
+    color: red;
+  }
+}
+
 input::placeholder {
   color: steelblue;
 }
