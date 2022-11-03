@@ -9,6 +9,9 @@ https://caniuse.com/?search=%3Aplaceholder
 https://github.com/csstools/postcss-preset-env
 https://github.com/csstools/precss
 https://github.com/postcss/postcss-import
+https://github.com/borodean/postcss-assets
+https://github.com/borodean/postcss-assets#load-paths
+
 
 https://github.com/bradtraversy/postcss-crash
 https://github.com/Annie-Huang/postcss-crash
@@ -46,3 +49,6 @@ PreCSS lets you use Sass-like markup and staged CSS features in CSS.
 
 postcss-import
 PostCSS plugin to transform @import rules by inlining content.
+
+PostCSS Assets
+PostCSS Assets is an asset manager for CSS. It isolates stylesheets from environmental changes, gets image sizes and inlines files.
