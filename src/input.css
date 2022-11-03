@@ -18,11 +18,11 @@ body {
     color: red;
   }
 }*/
-.card {
+/*.card {
   h2 {
     color: red;
   }
-}
+}*/
 
 input::placeholder {
   color: steelblue;
