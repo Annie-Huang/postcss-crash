@@ -11,7 +11,7 @@ https://github.com/csstools/precss
 https://github.com/postcss/postcss-import
 https://github.com/borodean/postcss-assets
 https://github.com/borodean/postcss-assets#load-paths
-
+https://github.com/cssnano/cssnano
 
 https://github.com/bradtraversy/postcss-crash
 https://github.com/Annie-Huang/postcss-crash
@@ -54,3 +54,6 @@ PostCSS plugin to transform @import rules by inlining content.
 
 PostCSS Assets
 PostCSS Assets is an asset manager for CSS. It isolates stylesheets from environmental changes, gets image sizes and inlines files.
+
+cssnano
+A modular minifier, built on top of the PostCSS ecosystem.

@@ -7,5 +7,8 @@ module.exports = {
     require('postcss-assets')({
       loadPaths: ['dist/img'],
     }),
+    require('cssnano')({
+      preset: 'default',
+    }),
   ],
 };
