@@ -21,6 +21,7 @@
   "homepage": "https://github.com/Annie-Huang/postcss-crash#readme",
   "devDependencies": {
     "autoprefixer": "^10.4.13",
+    "cssnano": "^5.1.14",
     "postcss": "^8.4.18",
     "postcss-assets": "^6.0.0",
     "postcss-cli": "^10.0.0",
